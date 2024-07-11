@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: 0;
+}
+
+.navbar {
+  height: 100%;
+  width: 100%;
+}
+
+.img-n {
+  height: 1px;
+  width: 1px;
+}
+
+/*# sourceMappingURL=main.css.map */
